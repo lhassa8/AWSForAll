@@ -2,4 +2,4 @@
 
 **AWS practice site**
 
-Hi there! Welcome to AWS for All
+No much here yet.  Only the Polly test site.
